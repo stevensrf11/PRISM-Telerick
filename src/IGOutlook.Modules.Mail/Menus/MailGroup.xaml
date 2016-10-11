@@ -1,0 +1,19 @@
+﻿<telerik:RadOutlookBarItem
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:IGOutlook.Modules.Mail.Menus"
+             xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+             x:Class="IGOutlook.Modules.Mail.Menus.MailGroup"
+  Icon="/IGOutlook.Modules.Mail;component/Images/mail_32x32.png"
+   SmallIcon="/IGOutlook.Modules.Mail;component/Images/mail16.png"  
+    Header="Mail">
+
+    <!--Header="Mail"
+    Icon="/IGOutlook.Modules.Mail;component/Images/mail_32x32.png"
+    SmallIcon="/IGOutlook.Modules.Mail;component/Images/mail16.png"  >-->
+
+
+
+</telerik:RadOutlookBarItem>
